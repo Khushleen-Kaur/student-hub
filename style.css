@@ -166,6 +166,7 @@ a:focus-visible {
 .hero-btn {
   width: 100%;
   font-size: 18px;
+  background-color: #2b44d6;
 }
 
 .hero-image {
